@@ -4,7 +4,7 @@
 
 #### Research interests: evolutionary economic geography, geography of innovation 
 #### Technical Skills: Python, Stata
-#### Google Scholar: https://scholar.google.com/citations?user=yJg1axYAAAAJ&hl=en&oi=sra 
+#### [Google Scholar](https://scholar.google.com/citations?user=yJg1axYAAAAJ&hl=en&oi=sra )
 
 ## Education
 - Ph.D., Economic Geography, Kiel University, Germany (_July 2021_)								       		
