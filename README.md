@@ -48,4 +48,4 @@
 
 This project aims to 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](images/China-Greater-Bay-Area_FF_PBR_01.jpg)
