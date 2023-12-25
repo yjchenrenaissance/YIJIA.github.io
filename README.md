@@ -30,7 +30,7 @@
 
 #### 2022
 - Chen Y* (2022). Rethinking asset modification in regional industrial path development: toward a conceptual framework. Regional Studies, 56(2), 338-350. [Link](https://www.tandfonline.com/doi/full/10.1080/00343404.2021.1941839)
-- Chen Y, Hassink, R*. (2022). The geography of the emergence of online peer-to-peer lending platforms in China: an evolutionary economic geography perspective. International Journal of Urban Sciences, 26(2), 351-371.[Link](https://doi.org/10.1080/12265934.2021.1879664](https://www.tandfonline.com/doi/abs/10.1080/12265934.2021.1879664#:~:text=We%20find%20that%20China's%20P2P,P2P%20industry%20could%20build%20on.)
+- Chen Y, Hassink, R*. (2022). The geography of the emergence of online peer-to-peer lending platforms in China: an evolutionary economic geography perspective. International Journal of Urban Sciences, 26(2), 351-371.[Link](https://www.tandfonline.com/doi/abs/10.1080/12265934.2021.1879664#:~:text=We%20find%20that%20China's%20P2P,P2P%20industry%20could%20build%20on.)
 - Chen Y, Tan T*. (2022). A review of regional innovation polity in European economic geography. World Regional Studies, 31(02), 259-269. (In Chinese) [Link](https://sjdlyj.ecnu.edu.cn/CN/10.3969/j.issn.1004-9479.2022.02.2020249)
 - Dai D, Chen Y*. (2022) The geography of the fintech industry in China: An analysis of China’s city-level patenting. Growth and Change, 53(4), 1907-1932.[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/grow.12630)
 - Wu K, Zhang H, Ye Y*, Chen Y, Yue X. (2022). Measurement and evolution characteristics of collaborative innovation in the Guangdong-Hong Kong-Macao Great Bay Area. Progress in Geography, 41(09), 1662-1676. (In Chinese) [Link](https://www.progressingeography.com/CN/10.18306/dlkxjz.2022.09.009)
