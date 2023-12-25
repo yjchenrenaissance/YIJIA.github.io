@@ -20,7 +20,7 @@
 - Statistics - Spring 2024
 - International Trade Geography - Fall 2023
 - Industrial Economics - Fall 2023 
-- Securities Investment and Practice  - Fall 2023 | Spring 2024
+- Securities Investment and Practice  - Fall 2023, Spring 2024
 
 ## Publications
 
