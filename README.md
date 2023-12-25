@@ -2,7 +2,9 @@
 
 # Economic Geographer, Data Scientist
 
+#### Research interests: evolutionary economic geography, geography of innovation 
 #### Technical Skills: Python, Stata
+#### Google Scholar: https://scholar.google.com/citations?user=yJg1axYAAAAJ&hl=en&oi=sra 
 
 ## Education
 - Ph.D., Economic Geography, Kiel University, Germany (_July 2021_)								       		
@@ -10,47 +12,35 @@
 - B.S., Ecology, South China Agriculture University, China (_July 2009_)
 
 ## Work Experience
-**Assistant professor @ School of Economics and Management, Dongguan University of Technology, China (_March 2023 - Present_)**
-- Teaching: Statistics, International Trade Geography, Industrial Economics, Securities Investment and Practice
+- Assistant professor @ School of Economics and Management, Dongguan University of Technology, China (_March 2023 - Present_)							       		
+- Research associate @ Guangzhou Institute of Geography, Guangdong Academy of Science, China (_December 2021 - March 2023_)			        		
+- Senior Consultant @ Consulting Department, DTZ Cushman & Wakefield, China (_September 2012 - December 2016_)**
 
-**Research associate @ Guangzhou Institute of Geography, Guangdong Academy of Science, China (_December 2021 - March 2023_)**
-
-**Senior Consultant @ Consulting Department, DTZ Cushman & Wakefield, China (_September 2012 - December 2016_)**
-
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Teaching
+- Statistics
+- International Trade Geography
+- Industrial Economics
+- Securities Investment and Practice
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+#### 2023
+1. Wu K, Chen Y*, Zhang H, Liu Y, Wang M, Ye Y, Gong W. (2023). ICTs capability and strategic emerging technologies: Evidence from Pearl River Delta. Applied Geography, 157(8), 103019. [https://doi.org/10.1016/j.apgeog.2023.103019]
+2. Xu J, Zhang H*, Chen Y, Du Z, Ye Y. (2023). The sequence of theoretical development and research agendas of evolutionary economic geography. Geographical Research, 2023, 42(9): 2433-2450. (In Chinese) [doi: 10.11821/dlyj020221192]
+#### 2022
+1. Chen Y* (2022). Rethinking asset modification in regional industrial path development: toward a conceptual framework. Regional Studies, 56(2), 338-350. [https://doi.org/10.1080/00343404.2021.1941839]
+2. Chen Y, Hassink, R*. (2022). The geography of the emergence of online peer-to-peer lending platforms in China: an evolutionary economic geography perspective. International Journal of Urban Sciences, 26(2), 351-371.[https://doi.org/10.1080/12265934.2021.1879664]
+3. Chen Y, Tan T*. (2022). A review of regional innovation polity in European economic geography. World Regional Studies, 31(02), 259-269. (In Chinese) [DOI: 10.3969/j.issn.1004-9479.2022.02.2020249]
+4. Dai D, Chen Y*. (2022) The geography of the fintech industry in China: An analysis of China’s city-level patenting. Growth and Change, 53(4), 1907-1932. [ https://doi.org/10.1111/grow.126300]
+5. Wu K, Zhang H, Ye Y*, Chen Y, Yue X. (2022). Measurement and evolution characteristics of collaborative innovation in the Guangdong-Hong Kong-Macao Great Bay Area. Progress in Geography, 41(09), 1662-1676. (In Chinese) [doi: 10.18306/dlkxjz.2022.09.009]
+#### 2020
+1. Chen Y, Hassink R* (2020). Multi-scalar knowledge bases for new regional industrial path development: toward a typology. European Planning Studies, 28(12), 2489-2507. [https://doi.org/10.1080/09654313.2020.1724265]
+#### 2018
+1. Chen Y*. (2018). Smart specialization and its implications for characteristic towns in China. Development of Small Cities & Towns, (05), 25-31. (In Chinese) [doi：10.3969/j.issn.1002-8439.2018.05.004]
 
-- [Data Science Blog](https://medium.com/@shawhin)
+
+## Projects
+###  Exploring the role of inter-regional assistance in higher education in Guangdong (2023GXJK135)
+
+This project aims to 
+
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
