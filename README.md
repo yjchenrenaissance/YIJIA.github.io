@@ -14,7 +14,7 @@
 ## Work Experience
 - Assistant professor @ School of Economics and Management, Dongguan University of Technology, China (_March 2023 - Present_)							       		
 - Research associate @ Guangzhou Institute of Geography, Guangdong Academy of Science, China (_December 2021 - March 2023_)			        		
-- Senior Consultant @ Consulting Department, DTZ Cushman & Wakefield, China (_September 2012 - December 2016_)**
+- Senior Consultant @ Consulting Department, DTZ Cushman & Wakefield, China (_September 2012 - December 2016_)
 
 ## Teaching
 - Statistics
@@ -26,16 +26,20 @@
 #### 2023
 1. Wu K, Chen Y*, Zhang H, Liu Y, Wang M, Ye Y, Gong W. (2023). ICTs capability and strategic emerging technologies: Evidence from Pearl River Delta. Applied Geography, 157(8), 103019. [https://doi.org/10.1016/j.apgeog.2023.103019]
 2. Xu J, Zhang H*, Chen Y, Du Z, Ye Y. (2023). The sequence of theoretical development and research agendas of evolutionary economic geography. Geographical Research, 2023, 42(9): 2433-2450. (In Chinese) [doi: 10.11821/dlyj020221192]
+
 #### 2022
 1. Chen Y* (2022). Rethinking asset modification in regional industrial path development: toward a conceptual framework. Regional Studies, 56(2), 338-350. [https://doi.org/10.1080/00343404.2021.1941839]
 2. Chen Y, Hassink, R*. (2022). The geography of the emergence of online peer-to-peer lending platforms in China: an evolutionary economic geography perspective. International Journal of Urban Sciences, 26(2), 351-371.[https://doi.org/10.1080/12265934.2021.1879664]
 3. Chen Y, Tan T*. (2022). A review of regional innovation polity in European economic geography. World Regional Studies, 31(02), 259-269. (In Chinese) [DOI: 10.3969/j.issn.1004-9479.2022.02.2020249]
 4. Dai D, Chen Y*. (2022) The geography of the fintech industry in China: An analysis of China’s city-level patenting. Growth and Change, 53(4), 1907-1932. [ https://doi.org/10.1111/grow.126300]
 5. Wu K, Zhang H, Ye Y*, Chen Y, Yue X. (2022). Measurement and evolution characteristics of collaborative innovation in the Guangdong-Hong Kong-Macao Great Bay Area. Progress in Geography, 41(09), 1662-1676. (In Chinese) [doi: 10.18306/dlkxjz.2022.09.009]
+
 #### 2020
 1. Chen Y, Hassink R* (2020). Multi-scalar knowledge bases for new regional industrial path development: toward a typology. European Planning Studies, 28(12), 2489-2507. [https://doi.org/10.1080/09654313.2020.1724265]
+
 #### 2018
 1. Chen Y*. (2018). Smart specialization and its implications for characteristic towns in China. Development of Small Cities & Towns, (05), 25-31. (In Chinese) [doi：10.3969/j.issn.1002-8439.2018.05.004]
+
 
 
 ## Projects
