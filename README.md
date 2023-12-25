@@ -1,6 +1,6 @@
 # YIJIA.github.io
 
-# Data Scientist
+# Economic Geographer, Data Scientist
 
 #### Technical Skills: Python, Stata
 
@@ -10,13 +10,12 @@
 - B.S., Ecology, South China Agriculture University, China (_July 2009_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Assistant professor @ School of Economics and Management, Dongguan University of Technology, China (_March 2023 - Present_)**
+- Teaching: Statistics, International Trade Geography, Industrial Economics, Securities Investment and Practice
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Research associate @ Guangzhou Institute of Geography, Guangdong Academy of Science, China (_December 2021 - March 2023_)**
+
+**Senior Consultant @ Consulting Department, DTZ Cushman & Wakefield, China (_September 2012 - December 2016_)**
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
