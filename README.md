@@ -2,12 +2,12 @@
 
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Stata
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Economic Geography | Kiel University, Germany (_July 2021_)								       		
+- M.S., Regional Economics	| Sun Yat-sen University, China (_July 2012_)	 			        		
+- B.S., Ecology | South China Agriculture University, China (__July 2009_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
