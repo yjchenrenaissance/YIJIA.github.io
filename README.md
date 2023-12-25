@@ -16,11 +16,11 @@
 - Research associate @ Guangzhou Institute of Geography, Guangdong Academy of Science, China (_December 2021 - March 2023_)			        		
 - Senior Consultant @ Consulting Department, DTZ Cushman & Wakefield, China (_September 2012 - December 2016_)
 
-## Teaching
-- Statistics
-- International Trade Geography
-- Industrial Economics
-- Securities Investment and Practice
+## Lectures
+- Statistics - Spring 2024
+- International Trade Geography - Fall 2023
+- Industrial Economics - Fall 2023 
+- Securities Investment and Practice  - Fall 2023 | Spring 2024
 
 ## Publications
 
