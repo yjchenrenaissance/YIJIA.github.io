@@ -44,8 +44,8 @@
 
 
 ## Projects
-###  Exploring the role of inter-regional assistance in higher education in Guangdong (2023GXJK135)
+###  Exploring the role of inter-regional cooperation between universities in Guangdong Province (2023GXJK135)
 
 This project aims to 
 
-![EEG Band Discovery](images/China-Greater-Bay-Area_FF_PBR_01.jpg)
+![EEG Band Discovery](images/图片2.jpg)
