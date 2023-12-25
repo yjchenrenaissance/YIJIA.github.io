@@ -5,9 +5,9 @@
 #### Technical Skills: Python, Stata
 
 ## Education
-- Ph.D., Economic Geography | Kiel University, Germany (_July 2021_)								       		
-- M.S., Regional Economics	| Sun Yat-sen University, China (_July 2012_)	 			        		
-- B.S., Ecology | South China Agriculture University, China (__July 2009_)
+- Ph.D., Economic Geography, Kiel University, Germany (_July 2021_)								       		
+- M.S., Regional Economics, Sun Yat-sen University, China (_July 2012_)	 			        		
+- B.S., Ecology, South China Agriculture University, China (_July 2009_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
