@@ -25,34 +25,34 @@
 ## Publications
 
 #### 2024
-- Ye Y, Chen Y*, Liu X, Xu J. (2024).Beyond the perspective of technology: Theoretical basis and scientific issues of new infrastructure to promote the high-quality development of regional economy. **_Scientia Geographica Sinica (地理科学)_**, 44(x): 1-9. (In Chinese)  [Link](https://kns.cnki.net/kcms2/article/abstract?v=9hl5eXOdJcbpR7hDMqaZT7qWPtCXgbHpuUIQ2V5euT1wnQPik_JtM-JL-IuDtKY6GRHBrQvdmeKWc0ZzeXe3latrD0avFx4ak75rM7HXGVIc95GdLIfq-BTFtcuVUCfGhdNaBRWOXtN-hplLcXo2XQ==&uniplatform=NZKPT&language=CHS)
+- Ye Y, **_Chen Y^_**, Liu X, Xu J. (2024).Beyond the perspective of technology: Theoretical basis and scientific issues of new infrastructure to promote the high-quality development of regional economy. **_Scientia Geographica Sinica (地理科学)_**, 44(x): 1-9. (In Chinese)  [Link](https://kns.cnki.net/kcms2/article/abstract?v=9hl5eXOdJcbpR7hDMqaZT7qWPtCXgbHpuUIQ2V5euT1wnQPik_JtM-JL-IuDtKY6GRHBrQvdmeKWc0ZzeXe3latrD0avFx4ak75rM7HXGVIc95GdLIfq-BTFtcuVUCfGhdNaBRWOXtN-hplLcXo2XQ==&uniplatform=NZKPT&language=CHS)
 
 #### 2023
-- Wu K, Chen Y*, Zhang H, Liu Y, Wang M, Ye Y, Gong W. (2023). ICTs capability and strategic emerging technologies: Evidence from Pearl River Delta. **_Applied Geography_**, 157(8), 103019. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0143622823001509)
-- Xu J, Zhang H*, Chen Y, Du Z, Ye Y. (2023). The sequence of theoretical development and research agendas of evolutionary economic geography. **_Geographical Research (地理研究)_**, 2023, 42(9): 2433-2450. (In Chinese) [Link](https://www.dlyj.ac.cn/CN/abstract/abstract54803.shtml)
+- Wu K,**_Chen Y^_**, Zhang H, Liu Y, Wang M, Ye Y, Gong W. (2023). ICTs capability and strategic emerging technologies: Evidence from Pearl River Delta. **_Applied Geography_**, 157(8), 103019. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0143622823001509)
+- Xu J, Zhang H^, **_Chen Y_**, Du Z, Ye Y. (2023). The sequence of theoretical development and research agendas of evolutionary economic geography. **_Geographical Research (地理研究)_**, 2023, 42(9): 2433-2450. (In Chinese) [Link](https://www.dlyj.ac.cn/CN/abstract/abstract54803.shtml)
 
 #### 2022
-- Chen Y. (2022). Rethinking asset modification in regional industrial path development: toward a conceptual framework. **_Regional Studies_**, 56(2), 338-350. [Link](https://www.tandfonline.com/doi/full/10.1080/00343404.2021.1941839)
-- Chen Y, Hassink, R*. (2022). The geography of the emergence of online peer-to-peer lending platforms in China: an evolutionary economic geography perspective. **_International Journal of Urban Sciences_**, 26(2), 351-371.[Link](https://www.tandfonline.com/doi/abs/10.1080/12265934.2021.1879664#:~:text=We%20find%20that%20China's%20P2P,P2P%20industry%20could%20build%20on.)
-- Chen Y, Tan T*. (2022). A review of regional innovation polity in European economic geography. **_World Regional Studies (世界地理研究)_**, 31(02), 259-269. (In Chinese) [Link](https://sjdlyj.ecnu.edu.cn/CN/10.3969/j.issn.1004-9479.2022.02.2020249)
-- Dai D, Chen Y. (2022) The geography of the fintech industry in China: An analysis of China’s city-level patenting. **_Growth and Change_**, 53(4), 1907-1932.[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/grow.12630)
-- Wu K, Zhang H, Ye Y*, Chen Y, Yue X. (2022). Measurement and evolution characteristics of collaborative innovation in the Guangdong-Hong Kong-Macao Great Bay Area. **_Progress in Geography (地理科学进展)_**, 41(09), 1662-1676. (In Chinese) [Link](https://www.progressingeography.com/CN/10.18306/dlkxjz.2022.09.009)
+- **_Chen Y^_**. (2022). Rethinking asset modification in regional industrial path development: toward a conceptual framework. **_Regional Studies_**, 56(2), 338-350. [Link](https://www.tandfonline.com/doi/full/10.1080/00343404.2021.1941839)
+- **_Chen Y_**, Hassink, R^. (2022). The geography of the emergence of online peer-to-peer lending platforms in China: an evolutionary economic geography perspective. **_International Journal of Urban Sciences_**, 26(2), 351-371.[Link](https://www.tandfonline.com/doi/abs/10.1080/12265934.2021.1879664#:~:text=We%20find%20that%20China's%20P2P,P2P%20industry%20could%20build%20on.)
+- **_Chen Y_**, Tan T^. (2022). A review of regional innovation polity in European economic geography. **_World Regional Studies (世界地理研究)_**, 31(02), 259-269. (In Chinese) [Link](https://sjdlyj.ecnu.edu.cn/CN/10.3969/j.issn.1004-9479.2022.02.2020249)
+- Dai D, **_Chen Y^_**. (2022) The geography of the fintech industry in China: An analysis of China’s city-level patenting. **_Growth and Change_**, 53(4), 1907-1932.[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/grow.12630)
+- Wu K, Zhang H, Ye Y^,**_Chen Y_**, Yue X. (2022). Measurement and evolution characteristics of collaborative innovation in the Guangdong-Hong Kong-Macao Great Bay Area. **_Progress in Geography (地理科学进展)_**, 41(09), 1662-1676. (In Chinese) [Link](https://www.progressingeography.com/CN/10.18306/dlkxjz.2022.09.009)
 
 #### 2020
-- Chen Y, Hassink R* (2020). Multi-scalar knowledge bases for new regional industrial path development: toward a typology. **_European Planning Studies_**, 28(12), 2489-2507. [Link](https://www.tandfonline.com/doi/full/10.1080/09654313.2020.1724265)
+- **_Chen Y_**, Hassink R^ (2020). Multi-scalar knowledge bases for new regional industrial path development: toward a typology. **_European Planning Studies_**, 28(12), 2489-2507. [Link](https://www.tandfonline.com/doi/full/10.1080/09654313.2020.1724265)
 
 #### 2018
-- Chen Y*. (2018). Smart specialization and its implications for characteristic towns in China. **_Development of Small Cities & Towns (小城镇建设)_**, (05), 25-31. (In Chinese) [Link](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=XCJS201805006&uniplatform=OVERSEA&v=AzzOUiHzMpfFXxUh73kZw28AGTHvc1NhcKKpH0dt5v1fjfj4hmaTQ2o92ETQElDh)
+- **_Chen Y^_**. (2018). Smart specialization and its implications for characteristic towns in China. **_Development of Small Cities & Towns (小城镇建设)_**, (05), 25-31. (In Chinese) [Link](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=XCJS201805006&uniplatform=OVERSEA&v=AzzOUiHzMpfFXxUh73kZw28AGTHvc1NhcKKpH0dt5v1fjfj4hmaTQ2o92ETQElDh)
 
 ## Working Paper
-- Chen Y, Gong H* (2024) High-order technological relatedness and the geography of recombinant technology: Evidence from the twin transition technology in China.
-- Chen Y, Gong H* (2024) The role of intra- and inter-regional relatedness and unrelatedness for the geography of breakthrough innovation: Evidence from the U.S.
-- Chen Y, Wu K* (2023) The adoption of artificial intelligence in Chinese cities: the role of intra-regional and extra-regional relatedness.
-- Chen Y, Tan T* (2023) Technology network structure and regional economic resilience: Evidence from China. (In Chinese)
-- Chen Y, Tan T* (2023) Technological relatedness, technological complexity and the evolution of digital technology in China. (In Chinese)
+- **_Chen Y_**, Gong H^ (2024) High-order technological relatedness and the geography of recombinant technology: Evidence from the twin transition technology in China.
+- **_Chen Y_**, Gong H^ (2024) The role of intra- and inter-regional relatedness and unrelatedness for the geography of breakthrough innovation: Evidence from the U.S.
+- **_Chen Y_**, Wu K^ (2023) The adoption of artificial intelligence in Chinese cities: the role of intra-regional and extra-regional relatedness.
+- **_Chen Y_**, Tan T^ (2023) Technology network structure and regional economic resilience: Evidence from China. (In Chinese)
+- **_Chen Y_**, Tan T^ (2023) Technological relatedness, technological complexity and the evolution of digital technology in China. (In Chinese)
 
 ## Projects
-###  Moving from the peripheral regions to the core regions and versa sa? A new model for industrial relocation in Guangdong Province (GD24CYJ37, funded by the Guangdong Planning Office of Philosophy and Social Science)
+###  From the peripheral regions to the core regions and vice versa? A new model for industrial relocation in Guangdong Province (GD24CYJ37, funded by the Guangdong Planning Office of Philosophy and Social Science)
 - Guangdong is the largest economic province in China, but the uneven regional development within Guangdong has always been one of the biggest challenges for the province. By the end of 2020, the 9 cities in the Pearl River Delta have accounted for 80% of the province's GDP with 30% of the area and 60% of the population, while the 12 cities outside the Pearl River Delta accounted for less than 20% of the province's GDP with 70% of the area and 40% of the population.
 - In contrast to the traditional model of industrial relocation, where enterprises and industries are relocated from core regions to peripheral regions, we find that there are two types of industrial relationships at the same time, namely, relocation from core regions to peripheral regions and relocation from peripheral regions to core regions.
 - This project aims to examine the mechanism of the two types of industrial relocation and whether and how they mitigate the uneven regional development in Guangdong.
