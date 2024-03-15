@@ -25,7 +25,7 @@
 ## Publications
 
 #### 2024
-- Ye Y, Chen Y*, Liu X, Xu J. (2024).Beyond the perspective of technology: Theoretical basis and scientific issues of new infrastructure to promote the high-quality development of regional economy. **_Scientia Geographica Sinica (地理科学)_**, 2024, 44(x): 1-9. (In Chinese) 
+- Ye Y, Chen Y*, Liu X, Xu J. (2024).Beyond the perspective of technology: Theoretical basis and scientific issues of new infrastructure to promote the high-quality development of regional economy. **_Scientia Geographica Sinica (地理科学)_**, 44(x): 1-9. (In Chinese)  [Link](https://kns.cnki.net/kcms2/article/abstract?v=9hl5eXOdJcbpR7hDMqaZT7qWPtCXgbHpuUIQ2V5euT1wnQPik_JtM-JL-IuDtKY6GRHBrQvdmeKWc0ZzeXe3latrD0avFx4ak75rM7HXGVIc95GdLIfq-BTFtcuVUCfGhdNaBRWOXtN-hplLcXo2XQ==&uniplatform=NZKPT&language=CHS)
 
 #### 2023
 - Wu K, Chen Y*, Zhang H, Liu Y, Wang M, Ye Y, Gong W. (2023). ICTs capability and strategic emerging technologies: Evidence from Pearl River Delta. **_Applied Geography_**, 157(8), 103019. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0143622823001509)
@@ -48,6 +48,8 @@
 - Chen Y, Gong H* (2024) High-order relatedness and the geography of recombinant technology: Evidence from the twin transition technology in China.
 - Chen Y, Gong H* (2024) The role of intra- and inter-regional relatedness and unrelatedness for the geography of breakthrough innovation: Evidence from the U.S.
 - Chen Y, Wu K* (2023) The adoption of artificial intelligence in Chinese cities: the role of intra-regional and extra-regional relatedness.
+- Chen Y, Tan T* (2023) Technology network structure and regional economic resilience: Evidence from China. (In Chinese)
+- Chen Y, Tan T* (2023) The adoption of artificial intelligence in Chinese cities: the role of intra-regional and extra-regional relatedness. (In Chinese)
 
 ## Projects
 ###  Exploring the role of inter-regional cooperation between universities in Guangdong Province (2023GXJK135)
