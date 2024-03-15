@@ -52,6 +52,14 @@
 - Chen Y, Tan T* (2023) Technological relatedness, technological complexity and the evolution of digital technology in China. (In Chinese)
 
 ## Projects
+###  Moving from the peripheral regions to the core regions and versa sa? A new model for industrial relocation in Guangdong Province (GD24CYJ37, funded by the Guangdong Planning Office of Philosophy and Social Science)
+- Guangdong is the largest economic province in China, but the uneven regional development within Guangdong has always been one of the biggest challenges for the province. By the end of 2020, the 9 cities in the Pearl River Delta have accounted for 80% of the province's GDP with 30% of the area and 60% of the population, while the 12 cities outside the Pearl River Delta accounted for less than 20% of the province's GDP with 70% of the area and 40% of the population.
+- In contrast to the traditional model of industrial relocation, where enterprises and industries are relocated from core regions to peripheral regions, we find that there are two types of industrial relationships at the same time, namely, relocation from core regions to peripheral regions and relocation from peripheral regions to core regions.
+- This project aims to examine the mechanism of the two types of industrial relocation and whether and how they mitigate the uneven regional development in Guangdong.
+
+![EEG Band Discovery](images/图片3.jpg)
+
+
 ###  Mitigating the uneven development of higher education in Guangdong Province: the role of inter-regional cooperation (2023GXJK135, funded by the Education Department of Guangdong Province)
 - Higher education in Guangdong Province is very unevenly distributed geographically. By the end of 2020, there were about 150 universities in Guangdong Province, ranking second among provinces in China. However, the universities in the Pearl River Delta account for more than 80% of the total number in the province, including all the well-known universities, while the peripheral cities in Guangdong province only account for less than 20%. 
 - In order to counteract the uneven regional development of higher education, this project aims to investigate whether and how inter-regional cooperation between universities can mitigate the uneven development of higher education in Guangdong Province.
