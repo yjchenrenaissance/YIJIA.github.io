@@ -61,7 +61,7 @@
 
 
 ###  Mitigating the uneven development of higher education in Guangdong Province: the role of inter-regional cooperation (2023GXJK135, funded by the Education Department of Guangdong Province)
-- Higher education in Guangdong Province is very unevenly distributed geographically. By the end of 2020, there were about 150 universities in Guangdong Province, ranking second among provinces in China. However, the universities in the Pearl River Delta account for more than 80% of the total number in the province, including all the well-known universities, while the peripheral cities in Guangdong province only account for less than 20%. 
+- Higher education in Guangdong Province is geographically unevenly distributed. By the end of 2020, there were about 150 universities in Guangdong Province, ranking second among provinces in China. However, the universities in the Pearl River Delta account for more than 80% of the total number in the province, including all the well-known universities, while the peripheral cities in Guangdong province only account for less than 20%. 
 - In order to counteract the uneven regional development of higher education, this project aims to investigate whether and how inter-regional cooperation between universities can mitigate the uneven development of higher education in Guangdong Province.
 
 ![EEG Band Discovery](images/图片2.jpg)
