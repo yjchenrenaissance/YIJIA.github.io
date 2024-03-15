@@ -45,11 +45,11 @@
 - Chen Y*. (2018). Smart specialization and its implications for characteristic towns in China. **_Development of Small Cities & Towns (小城镇建设)_**, (05), 25-31. (In Chinese) [Link](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=XCJS201805006&uniplatform=OVERSEA&v=AzzOUiHzMpfFXxUh73kZw28AGTHvc1NhcKKpH0dt5v1fjfj4hmaTQ2o92ETQElDh)
 
 ## Working Paper
-- Chen Y, Gong H* (2024) High-order relatedness and the geography of recombinant technology: Evidence from the twin transition technology in China.
+- Chen Y, Gong H* (2024) High-order technological relatedness and the geography of recombinant technology: Evidence from the twin transition technology in China.
 - Chen Y, Gong H* (2024) The role of intra- and inter-regional relatedness and unrelatedness for the geography of breakthrough innovation: Evidence from the U.S.
 - Chen Y, Wu K* (2023) The adoption of artificial intelligence in Chinese cities: the role of intra-regional and extra-regional relatedness.
 - Chen Y, Tan T* (2023) Technology network structure and regional economic resilience: Evidence from China. (In Chinese)
-- Chen Y, Tan T* (2023) The adoption of artificial intelligence in Chinese cities: the role of intra-regional and extra-regional relatedness. (In Chinese)
+- Chen Y, Tan T* (2023) Technological relatedness, technological complexity and the evolution of digital technology in China. (In Chinese)
 
 ## Projects
 ###  Exploring the role of inter-regional cooperation between universities in Guangdong Province (2023GXJK135)
