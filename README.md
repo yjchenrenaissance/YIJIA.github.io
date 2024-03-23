@@ -2,7 +2,7 @@
 
 # Economic Geographer, Data Scientist
 
-#### Research interests: evolutionary economic geography, geography of innovation, twin transition, breakthrough innovation, cryptocurrency
+#### Research interests: evolutionary economic geography, geography of innovation, twin transition, breakthrough innovation, cryptocurrency, data science
 #### Technical Skills: Python, Stata
 #### [Google Scholar](https://scholar.google.com/citations?user=yJg1axYAAAAJ&hl=en&oi=sra )
 
@@ -21,6 +21,7 @@
 - International Trade Geography - Fall 2023
 - Industrial Economics - Fall 2023 
 - Securities Investment and Practice  - Fall 2023
+- Bachelor thesis supervision (10 students)
 
 ## Publications
 
