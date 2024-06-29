@@ -2,7 +2,7 @@
 
 # Economic Geographer, Data Scientist
 
-#### Research interests: evolutionary economic geography, geography of innovation, twin transition, breakthrough innovation, cryptocurrency, data science
+#### Research interests: evolutionary economic geography, geography of innovation, cryptocurrency, data science
 #### Technical Skills: Python, Stata
 #### [Google Scholar](https://scholar.google.com/citations?user=yJg1axYAAAAJ&hl=en&oi=sra )
 
