@@ -27,7 +27,8 @@
 ## Publications
 
 #### 2025
-- **_Chen Y^_**, & Wu, K. (2025). Integrating artificial intelligence into regional technological domains: the role of intra-and extra-regional AI relatedness. **_Cambridge Journal of Regions, Economy and Society_**, rsae041. [Link](https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsae041/7950699?redirectedFrom=fulltext)
+- **_Chen Y^_**, Tan, J., & Yang, R (2025). Technological relatedness, technological complexity and the development of digital technology in Chinese cities. **_Applied Geography_**,  179(6), 103635. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0143622825001304)
+- **_Chen Y^_**, & Wu, K. (2025). Integrating artificial intelligence into regional technological domains: the role of intra-and extra-regional AI relatedness. **_Cambridge Journal of Regions, Economy and Society_**, 18(1), 111-130. [Link](https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsae041/7950699?redirectedFrom=fulltext)
 
 #### 2024
 - Ye Y, **_Chen Y^_**, Liu X, Xu J. (2024).Beyond the perspective of technology: Theoretical basis and scientific issues of new infrastructure to promote the high-quality development of regional economy. **_Scientia Geographica Sinica (地理科学)_**, 44(4): 553-561. (In Chinese)  [Link](https://kns.cnki.net/kcms2/article/abstract?v=9hl5eXOdJcbpR7hDMqaZT7qWPtCXgbHpuUIQ2V5euT1wnQPik_JtM-JL-IuDtKY6GRHBrQvdmeKWc0ZzeXe3latrD0avFx4ak75rM7HXGVIc95GdLIfq-BTFtcuVUCfGhdNaBRWOXtN-hplLcXo2XQ==&uniplatform=NZKPT&language=CHS)
