@@ -27,8 +27,10 @@
 ## Publications
 
 #### 2025
-- **_Chen Y^_**, Tan, J., & Yang, R (2025). Technological relatedness, technological complexity and the development of digital technology in Chinese cities. **_Applied Geography_**,  179(6), 103635. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0143622825001304)
 - **_Chen Y^_**, & Wu, K. (2025). Integrating artificial intelligence into regional technological domains: the role of intra-and extra-regional AI relatedness. **_Cambridge Journal of Regions, Economy and Society_**, 18(1), 111-130. [Link](https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsae041/7950699?redirectedFrom=fulltext)
+- **_Chen Y^_**, & Gong, H (2025). The role of intra-and inter-regional relatedness and unrelatedness for the geography of breakthrough technological innovation: evidence from the US. **_Regional Studies_**,  1-16. [Link](https://www.tandfonline.com/doi/full/10.1080/00343404.2025.2495795)
+- **_Chen Y^_**, Tan, J., & Yang, R (2025). Technological relatedness, technological complexity and the development of digital technology in Chinese cities. **_Applied Geography_**,  179(6), 103635. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0143622825001304)
+- **_Chen Y^_**, Tan, J., & Wang, Z (2025). Impact mechanism of technology network structure on regional economic resilience in China. **_Scientia Geographica Sinica (地理科学)_**,  45(5), 1002-1013. (In Chinese) [Link](http://geoscien.neigae.ac.cn/CN/10.13249/j.cnki.sgs.20240421)
 
 #### 2024
 - Ye Y, **_Chen Y^_**, Liu X, Xu J. (2024).Beyond the perspective of technology: Theoretical basis and scientific issues of new infrastructure to promote the high-quality development of regional economy. **_Scientia Geographica Sinica (地理科学)_**, 44(4): 553-561. (In Chinese)  [Link](https://kns.cnki.net/kcms2/article/abstract?v=9hl5eXOdJcbpR7hDMqaZT7qWPtCXgbHpuUIQ2V5euT1wnQPik_JtM-JL-IuDtKY6GRHBrQvdmeKWc0ZzeXe3latrD0avFx4ak75rM7HXGVIc95GdLIfq-BTFtcuVUCfGhdNaBRWOXtN-hplLcXo2XQ==&uniplatform=NZKPT&language=CHS)
