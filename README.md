@@ -11,18 +11,19 @@
 - M.S., Regional Economics, Sun Yat-sen University, China (_July 2012_)	 			        		
 - B.S., Ecology, South China Agriculture University, China (_July 2009_)
 
-## Work Experience
-- Assistant professor @ School of Economics and Management, Dongguan University of Technology, China (_March 2023 - Present_)							       		
+## Work Experience]
+- Assistant professor @ School of Economics and Management, Dongguan University of Technology, China (_July 2025 - Present_)
+- Assistant professor @ School of Economics and Management, Dongguan University of Technology, China (_March 2023 - July 2025_)							       						       		
 - Research associate @ Guangzhou Institute of Geography, Guangdong Academy of Science, China (_December 2021 - March 2023_)			        		
 - Senior Consultant @ Consulting Department, DTZ Cushman & Wakefield, China (_September 2012 - December 2016_)
 
 ## Teaching
-- Statistics - Spring 2024
-- International Trade Geography - Fall 2023
-- Industrial Economics - Fall 2023 
-- Securities Investment and Practice  - Fall 2023
-- Bachelor thesis supervision (10 students)
-- Master thesis supervision (1 student)
+- International Trade Geography - Fall 2023, Fall 2024, Fall 2025
+- Securities Investment and Practice - Fall 2023, Fall 2024, Fall 2025
+- Statistics - Spring 2025, Spring 2024, Spring 2025
+- Industrial Economics - Spring 2023, Spring 2024, Spring 2025
+- Bachelor thesis supervision (25 students)
+- Master thesis supervision (2 student)
 
 ## Publications
 
