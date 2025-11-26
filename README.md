@@ -12,7 +12,7 @@
 - B.S., Ecology, South China Agriculture University, China (_July 2009_)
 
 ## Work Experience]
-- Assistant professor @ School of Economics and Management, Dongguan University of Technology, China (_July 2025 - Present_)
+- Associate professor @ School of Economics and Management, Dongguan University of Technology, China (_July 2025 - Present_)
 - Assistant professor @ School of Economics and Management, Dongguan University of Technology, China (_March 2023 - July 2025_)							       						       		
 - Research associate @ Guangzhou Institute of Geography, Guangdong Academy of Science, China (_December 2021 - March 2023_)			        		
 - Senior Consultant @ Consulting Department, DTZ Cushman & Wakefield, China (_September 2012 - December 2016_)
